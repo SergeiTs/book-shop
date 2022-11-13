@@ -1,0 +1,81 @@
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    text-align: center
+}
+
+.book {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    position: relative;
+    top: 50px;
+    left: 300px;
+}
+
+.book1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    position: relative;
+    top: 180px;
+    left: 300px;
+}
+
+.book2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    position: relative;
+    top: 310px;
+    left: 300px;
+}
+
+.book3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    position: relative;
+    top: 440px;
+    left: 300px;
+}
+
+.book4 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    position: relative;
+    top: 570px;
+    left: 300px;
+}
+
+.book5 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    position: relative;
+    top: 700px;
+    left: 300px;
+}
+
+.pic {
+    margin-top: 100px;
+    margin-right: 50px;
+    position: relative;
+    bottom: 890px;
+    left: 180px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn {
+    margin-left: 20px;
+    height: 20px;
+    width: 100px;
+    border-radius: 20px;
+    border: none;
+    background:rgb(35, 46, 63);
+    color: white;
+}
